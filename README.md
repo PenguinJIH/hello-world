@@ -1,2 +1,3 @@
 # hello-world
-My first project on github.
+
+Hi, here is Penguin. I'm new to GitHub.
